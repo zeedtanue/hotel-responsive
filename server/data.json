@@ -1,0 +1,96 @@
+[
+  {
+    "id": "1",
+    "name": "Premium Suite",
+    "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3984.615622404095!2d101.63381711430353!3d2.9263251552991885!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31cdb6dd3bfe7eed%3A0xabcea7876b0fb095!2sThe%20Arc%20%40%20Cyberjaya%20Blocks%20C%20%26%20D!5e0!3m2!1sen!2smy!4v1622127535749!5m2!1sen!2smy",
+
+    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "longDesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque non nobis, impedit veritatis quia, consectetur velit ea error ducimus totam ipsam, nisi dolorem voluptatum ut perspiciatis ex quidem nesciunt assumenda.",
+    "rating": 4.8,
+    "cover": "https://cache.marriott.com/marriottassets/marriott/KULWH/kulwh-exterior-3787-hor-wide.jpg?interpolation=progressive-bilinear&downsize=1440px:*",
+    "image": "https://www.bulgarihotels.com/.imaging/bhr-960-jpg/dam/MILANO/SUITES/Premium-Suite-1.jpg/jcr%3Acontent",
+    "price": "$250",
+    "imageCover": [
+      {
+        "id": "1",
+        "url": "https://cache.marriott.com/marriottassets/marriott/KULWH/kulwh-kingewowsuite-6439-hor-wide.jpg?interpolation=progressive-bilinear&downsize=1440px:*",
+        "name": "picture 1"
+      },
+      {
+        "url": "https://cache.marriott.com/marriottassets/marriott/KULWH/kulwh-room-9322-hor-wide.jpg?interpolation=progressive-bilinear&downsize=1440px:*",
+        "id": "2",
+        "name": "picture 2"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Duplex Suite",
+    "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d254990.7745674073!2d101.52212531490024!3d3.032628976722758!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31cc49c0ebf6504b%3A0xefb05d9a37484ed8!2sHilton%20Kuala%20Lumpur!5e0!3m2!1sen!2smy!4v1622128236723!5m2!1sen!2smy",
+    "description": "When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "longDesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad itaque excepturi dignissimos laudantium obcaecati quam blanditiis earum veniam, dicta, velit, quo tenetur dolore ducimus repellat neque, architecto magni in cum.",
+    "rating": 4.7,
+    "cover": "https://cache.marriott.com/marriottassets/marriott/KULWH/kulwh-wet-deck-0431-hor-wide.jpg?interpolation=progressive-bilinear&downsize=1440px:*",
+    "image": "https://cdn.galaxy.tf/unit-media/tc-default/uploads/images/room_photo/001/551/841/11-op-standard.jpg",
+    "price": "$180",
+    "imageCover": [
+      {
+        "id": "1",
+        "url": "https://cache.marriott.com/marriottassets/marriott/KULWH/kulwh-exterior-3787-hor-wide.jpg?interpolation=progressive-bilinear&downsize=1440px:*",
+        "name": "picture 1"
+      },
+      {
+        "id": "1",
+        "url": "https://cache.marriott.com/marriottassets/marriott/KULWH/kulwh-wet-deck-0431-hor-wide.jpg?interpolation=progressive-bilinear&downsize=1440px:*",
+        "name": "picture 2"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Delux Room",
+    "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3984.0832797342036!2d101.51522481430347!3d3.072425454477418!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31cc52871e6675e1%3A0x361ac4f83906f051!2sRadisson%20Hotel%20%26%20Convention%20Centre!5e0!3m2!1sen!2smy!4v1622128311347!5m2!1sen!2smy",
+    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "longDesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque non nobis, impedit veritatis quia, consectetur velit ea error ducimus totam ipsam, nisi dolorem voluptatum ut perspiciatis ex quidem nesciunt assumenda.",
+    "rating": 4.8,
+    "cover": "https://cache.marriott.com/marriottassets/marriott/KULWH/kulwh-wet-deck-0431-hor-wide.jpg?interpolation=progressive-bilinear&downsize=1440px:*",
+    "image": "https://cdn.galaxy.tf/unit-media/tc-default/uploads/images/room_photo/001/574/739/deluxe-room-standard.jpg",
+    "price": "$200",
+    "imageCover": [
+      {
+        "id": "1",
+        "url": "https://cache.marriott.com/marriottassets/marriott/KULWH/kulwh-kingewowsuite-6439-hor-wide.jpg?interpolation=progressive-bilinear&downsize=1440px:*",
+        "name": "picture 1"
+      },
+      {
+        "url": "https://cache.marriott.com/marriottassets/marriott/KULWH/kulwh-room-9322-hor-wide.jpg?interpolation=progressive-bilinear&downsize=1440px:*",
+        "id": "2",
+        "name": "picture 2"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Twin Delux ",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3983.8311362835843!2d101.68996661430344!3d3.139255754089931!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31cc49c5acb02757%3A0xf0aca4eb92b06ca8!2sThe%20Majestic%20Hotel%20Kuala%20Lumpur!5e0!3m2!1sen!2smy!4v1622128397994!5m2!1sen!2smy",
+    
+    "description": "When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "longDesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad itaque excepturi dignissimos laudantium obcaecati quam blanditiis earum veniam, dicta, velit, quo tenetur dolore ducimus repellat neque, architecto magni in cum.",
+    "rating": 4.7,
+    "cover": "https://cache.marriott.com/marriottassets/marriott/KULWH/kulwh-exterior-3787-hor-wide.jpg?interpolation=progressive-bilinear&downsize=1440px:*",
+    "image": "https://q-xx.bstatic.com/xdata/images/hotel/840x460/112738968.jpg?k=1e9dcbf543217311187d54e3f747e45b7d5e72592cfceab3c4deff2baa5b1e4f&o=",
+    "price": "$150",
+    "imageCover": [
+      {
+        "id": "1",
+        "url": "https://cache.marriott.com/marriottassets/marriott/KULWH/kulwh-exterior-3787-hor-wide.jpg?interpolation=progressive-bilinear&downsize=1440px:*",
+        "name": "picture 1"
+      },
+      {
+        "id": "1",
+        "url": "https://cache.marriott.com/marriottassets/marriott/KULWH/kulwh-wet-deck-0431-hor-wide.jpg?interpolation=progressive-bilinear&downsize=1440px:*",
+        "name": "picture 2"
+      }
+    ]
+  }
+]
