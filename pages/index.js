@@ -2,8 +2,8 @@
 
 import React, { useState, useEffect } from 'react'
 import SideMenu from '../components/SideMenue'
-import Carousel from '../components/carousel'
-import MovieList from '../components/movieList'
+import Carousel from '../components/CarouSel'
+import MovieList from '../components/MovieList'
 
 import { getMovies, getCategories } from '../actions'
 
