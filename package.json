@@ -1,11 +1,11 @@
 {
   "name": "hotel-app",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "node server/index.js",
     "build": "next build",
-    "start": "next start -p $PORT",
+    "start": "next start",
     "heroku-postbuild":"npm run build"
   },
   "dependencies": {
